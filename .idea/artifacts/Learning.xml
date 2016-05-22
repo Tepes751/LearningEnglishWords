@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="Learning">
+    <output-path>$PROJECT_DIR$/out/artifacts/Learning</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="Learning.apk">
+      <element id="file-copy" path="$PROJECT_DIR$/src/text.txt" />
+    </root>
+  </artifact>
+</component>
